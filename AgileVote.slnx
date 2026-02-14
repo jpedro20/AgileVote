@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgileVote.Api/AgileVote.Api.csproj" Id="1489a71b-18f2-4b9a-a625-0b9086007946" />
+    <Project Path="src/AgileVote.Application/AgileVote.Application.csproj" Id="9acf8ea0-6b04-4479-b9bd-863092a5bddb" />
+    <Project Path="src/AgileVote.Domain/AgileVote.Domain.csproj" Id="525b4ebd-5277-4b01-a48f-657e4976b52a" />
+    <Project Path="src/AgileVote.Infrastructure/AgileVote.Infrastructure.csproj" Id="ec0dd05d-75cc-4f44-b404-cdef12622f61" />
+    <Project Path="src/AgileVote.Web/AgileVote.Web.csproj" Id="80fa561d-1362-465b-9a72-1e7406a3ddec" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AgileVote.IntegrationTests/AgileVote.IntegrationTests.csproj" Id="c6058a37-1bfb-41bc-9cd3-d38e17fa9ee8" />
+    <Project Path="tests/AgileVote.UnitTests/AgileVote.UnitTests.csproj" Id="3d73926a-1bfa-46e2-9888-38f013648ff1" />
+  </Folder>
+</Solution>
